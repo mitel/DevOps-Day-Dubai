@@ -28,6 +28,7 @@ A single day, heavy duty, partially hands-on introduction to discussions around 
   * Why Agile - the manifesto
   * Basic mechanics of one style (SCRUM)
 
+---
   
 ##Part 3:
 * Cloud Native Applications
@@ -39,7 +40,9 @@ A single day, heavy duty, partially hands-on introduction to discussions around 
   * Ops Management + Services + Runtime
   * Prescriptive vs. Unstructured
 
-##Part 5:
+---
+
+##Part 5 & 6:
 
 * Source Code Management
   * Why it matters
@@ -52,6 +55,8 @@ A single day, heavy duty, partially hands-on introduction to discussions around 
   * Developer & Operator Experience
   * *Hands On*: `cf push` checked out app
 
+---
+
 ##Part 7:
 
 What can we sell?
@@ -62,5 +67,6 @@ What can we sell?
 * ECS & Rubicon
 * vCloud Air / Virtustream
 
+---
 
 # Role Play Scenarios
